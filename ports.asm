@@ -1,4 +1,4 @@
-// only if you want to use ports in/out made in asm
+; only if you want to use ports in/out made in asm
 [global inb]
 [global outb]
 
