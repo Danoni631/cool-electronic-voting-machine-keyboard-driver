@@ -24,6 +24,6 @@ static const BYTE key_map[4][4] =
 };
 
 VOID init_keyboard(EVMCallback callback);
-void tract_key(BYTE line_mask, BYTE column_mask);
+VOID tract_key(BYTE line_mask, BYTE column_mask);
 
 #endif
